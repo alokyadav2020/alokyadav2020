@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+As a Data Scientist with two years of experience specializing in Generative AI, I am passionate about leveraging advanced technologies to drive innovation and solve complex problems. My expertise spans deep learning, generative models, and machine learning, utilizing a wide array of tools and platforms.
+
+## Deep Learning Tools:
+
+TensorFlow: Expert in building and deploying neural networks for a variety of applications, from image recognition to natural language processing.
+PyTorch: Proficient in developing and fine-tuning deep learning models, with a focus on flexibility and performance.
+Keras: Skilled in rapid prototyping and building complex models with an intuitive interface.
+
+## Generative AI Tools:
+
+GPT-4: Experienced in utilizing advanced language models for tasks such as text generation, summarization, and translation.
+DALL-E: Adept at creating high-quality images from textual descriptions, exploring the creative intersections of AI and art.
+GANs (Generative Adversarial Networks): Specialized in generating realistic data and improving model robustness through adversarial training.
+
+## Machine Learning Tools:
+
+Scikit-Learn: Proficient in implementing classical machine learning algorithms for predictive modeling and data analysis.
+XGBoost: Expert in gradient boosting techniques for high-performance model building and feature engineering.
+MLflow: Skilled in managing the end-to-end machine learning lifecycle, from experimentation to deployment.
+
 🔭 𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐒𝐤𝐢𝐥𝐥𝐬:
 
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 -: Python, C#, javascript, HTML and CSS
