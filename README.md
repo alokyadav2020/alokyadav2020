@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Welcome TO My Repository
-
 🔭 𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐒𝐤𝐢𝐥𝐥𝐬:
 
 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 -: Python, C#, javascript, HTML and CSS
